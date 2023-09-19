@@ -32,7 +32,7 @@ for file in file_list:
         "val": icon
     })
 
-twikoo["<img src=\"https://cdn1.tianli0.top/gh/tianli0/Sticker-Bochi/to.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">"] = {
+twikoo["<img src=\"https://cdn1.tianli0.top/gh/tianli0/Sticker-Bochi/sticker/to.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">"] = {
     "type": "image",
     "container": items_twikoo
 }
