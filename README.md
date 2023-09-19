@@ -1,6 +1,5 @@
 # Sticker-Bochi
 
-![banner](img/banner.png)
 
 ![预览](img/cover.png)
 
