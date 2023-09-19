@@ -2,7 +2,7 @@ import os
 import json
 
 path = "sticker"  
-base_url = "https://cdn1.tianli0.top/gh/tianli0/Sticker-Bochi/"  
+base_url = "https://cdn1.tianli0.top/gh/tianli0/Sticker-Bochi/sticker/"  
 icon_url_template = base_url + "{}"  
 
 twikoo = {}  
