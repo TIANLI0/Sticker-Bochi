@@ -11,9 +11,11 @@
 
 随便拿去用！免授权免收费，希望多多传播而已！！
 
-© 2023 丝提Strit
+<div style="text-align:right;">
+    © 2023 丝提Strit
+</div>
 
-## Installation
+## How To Use?
 
 ### Twikoo
 
