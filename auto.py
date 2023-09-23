@@ -3,7 +3,7 @@ import json
 
 path = "sticker"  
 base_url = "https://cdn1.tianli0.top/gh/tianli0/Sticker-Bochi/sticker/"  
-icon_url_template = base_url + "{}"  
+icon_url_template = base_url + "{}"  + "?webp=true"
 
 twikoo = {}  
 data_valine = {} 
@@ -32,7 +32,7 @@ for file in file_list:
         "val": icon
     })
 
-twikoo["<img src=\"https://cdn1.tianli0.top/gh/tianli0/Sticker-Bochi/sticker/to.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">"] = {
+twikoo["<img src=\"https://cdn1.tianli0.top/gh/tianli0/Sticker-Bochi/sticker/垃圾桶_04.png?webp=true\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">"] = {
     "type": "image",
     "container": items_twikoo
 }
